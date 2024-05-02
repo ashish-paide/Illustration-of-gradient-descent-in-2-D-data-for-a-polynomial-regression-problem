@@ -36,7 +36,7 @@ This Jupyter Notebook provides a comprehensive walkthrough of implementing gradi
 ## Instructions for Use
 1. Ensure you have Jupyter Notebook installed to run the provided `.ipynb` file.
 2. Clone or download this repository to your local machine.
-3. Open the Jupyter Notebook `Gradient_Descent_Polynomial_Regression.ipynb` using Jupyter Notebook.
+3. Open the Jupyter Notebook `regression.ipynb` using Jupyter Notebook.
 4. Run each cell sequentially to follow along with the explanations and code implementation.
 5. Experiment with different parameters, such as learning rate and number of epochs, to observe their effects on model training and convergence.
 6. For further exploration, consider applying the concepts learned here to other regression problems or experimenting with different polynomial degrees.
